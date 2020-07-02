@@ -31,10 +31,10 @@ The docker image installs the following packages on your system:
 
 |Component|Version|
 | :-------------: | :-------------: |
-|Linux|Ubuntu 18.04|
+|Linux|Ubuntu 20.04|
 |OpenLiteSpeed|[Latest version](https://openlitespeed.org/downloads/)|
-|MariaDB|[Stable version: 10.3](https://hub.docker.com/_/mariadb)|
-|PHP|[Latest version](http://rpms.litespeedtech.com/debian/)|
+|MariaDB|[Stable version: 10.5](https://hub.docker.com/_/mariadb)|
+|PHP 7.4|[Latest version](http://rpms.litespeedtech.com/debian/)|
 |LiteSpeed Cache|[Latest from WordPress.org](https://wordpress.org/plugins/litespeed-cache/)|
 |ACME|[Latest from ACME official](https://github.com/acmesh-official/get.acme.sh)|
 |WordPress|[Latest from WordPress](https://wordpress.org/download/)|
