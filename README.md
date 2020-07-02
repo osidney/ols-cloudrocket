@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.com/litespeedtech/ols-docker-env.svg?branch=master)](https://hub.docker.com/r/litespeedtech/openlitespeed)
 [![docker pulls](https://img.shields.io/docker/pulls/litespeedtech/openlitespeed?style=flat&color=blue)](https://hub.docker.com/r/litespeedtech/openlitespeed)
 [<img src="https://img.shields.io/badge/slack-LiteSpeed-blue.svg?logo=slack">](litespeedtech.com/slack) 
-[<img src="https://img.shields.io/twitter/follow/litespeedtech.svg?label=Follow&style=social">](https://twitter.com/litespeedtech)
+[<img src="https://img.shields.io/twitter/follow/sidneyandrewss.svg?label=Follow&style=social">](https://twitter.com/sidneyandrewss)
 
 Install a lightweight WordPress container with OpenLiteSpeed Edge or Stable version based on Ubuntu 18.04 Linux.
 
